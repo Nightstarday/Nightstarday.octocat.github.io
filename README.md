@@ -1,4 +1,7 @@
-https://kmc.kingmed.com.cn/dpnew/#/patient-info?reportOdd=CS003QMDEXEYKZA
+/* 隐藏特定元素 */
+.repo-name { 
+    display: none;
+}
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
