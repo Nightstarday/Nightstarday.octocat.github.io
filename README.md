@@ -3,15 +3,6 @@
 <html lang="zh-CN">
 <head>
  <body>
-    <div class="sub-header">
-        <a href="#" class="back">&lt;</a>
-        <h2>金域防伪</h2>
-    </div>
-    <div class="card">
-        <div class="card-header">
-            <span style="font-family: 'Arial Black', sans-serif;">KAC</span> 金域云检
-        </div>
-        <div class="card-body">
             <h3>欢迎访问【金域云检】防伪页面</h3>
             <div class="info-item">
                 <strong>查验信息如下:</strong>
