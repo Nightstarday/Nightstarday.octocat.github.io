@@ -1,5 +1,5 @@
 /* 隐藏特定元素 */
-.repo-name { 
+.repo-name {Nightstarday.octocat.github.io
     display: none;
 }
 <!DOCTYPE html>
