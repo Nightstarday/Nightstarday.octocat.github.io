@@ -103,11 +103,6 @@
     </style>
 </head>
 <body>
-    <div class="header">
-        <a href="#" class="back">&lt;</a>
-        金域防伪
-        <span class="more">...</span>
-    </div>
     <div class="sub-header">
         <a href="#" class="back">&lt;</a>
         <h2>金域防伪</h2>
