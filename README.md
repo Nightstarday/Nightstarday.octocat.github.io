@@ -1,7 +1,3 @@
-/* 隐藏特定元素 */
-.repo-name {Nightstarday.octocat.github.io
-    display: none;
-}
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
